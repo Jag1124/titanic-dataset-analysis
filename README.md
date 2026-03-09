@@ -13,4 +13,4 @@ Tools used:
 - Matplotlib
 - Seaborn
 
-This task is part of data analysis practice.
+This task is part of data analysis.
